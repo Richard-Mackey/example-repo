@@ -1,5 +1,5 @@
 ---
-permalink: /version-control-git-basics/
+permalink: /example-repo/
 title: Version control and git basics task
 ---
 ## This project is the version control and git basics task from Hyperion Dev.
